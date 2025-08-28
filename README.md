@@ -15,11 +15,9 @@
 ## 📂 Featured Projects
 
 ### 1. Inventory Analysis with Automated Email Alerts
-![Inventory Analysis Screenshot](https://raw.githubusercontent.com/wissemkooli/inventory_analysis_with_automated_email_alerts/main/path-to-image.png)
 [🔗 View on GitHub](https://github.com/wissemkooli/inventory_analysis_with_automated_email_alerts)
 
 ### 2. Product Sales Data Analyst Certification Project
-![Product Sales Screenshot](https://raw.githubusercontent.com/wissemkooli/Certification-Data-Analyst-Product-Sales/main/path-to-image.png)
 [🔗 View on GitHub](https://github.com/wissemkooli/Certification-Data-Analyst-Product-Sales)
 
 ---
