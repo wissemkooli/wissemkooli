@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Wissem Kooli!
 ### Industrial Engineer | Process Automation & AI Enthusiast
 
-
+\n
+\n
 📊 **Certified Data Analyst (DataCamp)**
 
 ---
