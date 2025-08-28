@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Wissem Kooli!
 
-<!--
-**wissemkooli/wissemkooli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Industrial Engineering Student**  
+📊 **Certified Data Analyst (DataCamp)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+- Python (Pandas, Seaborn, NumPy)
+- SQL
+- Data Visualization
+
+---
+
+## 📂 Featured Projects
+
+### 1. Inventory Analysis with Automated Email Alerts
+![Inventory Analysis Screenshot](https://raw.githubusercontent.com/wissemkooli/inventory_analysis_with_automated_email_alerts/main/path-to-image.png)
+[🔗 View on GitHub](https://github.com/wissemkooli/inventory_analysis_with_automated_email_alerts)
+
+### 2. Product Sales Data Analyst Certification Project
+![Product Sales Screenshot](https://raw.githubusercontent.com/wissemkooli/Certification-Data-Analyst-Product-Sales/main/path-to-image.png)
+[🔗 View on GitHub](https://github.com/wissemkooli/Certification-Data-Analyst-Product-Sales)
+
+---
+
+## 🌟 About Me
+
+I thrive on turning raw data into actionable insights to help businesses grow and optimize their operations. As an industrial engineering student, I blend analytical skills with process improvement knowledge to make a real-world impact.
+
+- 🏆 Certified Data Analyst via DataCamp
+- 🐍 Python enthusiast
+- 📈 Passionate about data visualization
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/wissem-kooli-b39271380/)
+
