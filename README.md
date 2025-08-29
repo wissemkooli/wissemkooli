@@ -34,7 +34,7 @@ I thrive on turning raw data into actionable insights to help businesses grow an
 - 📈 Passionate about data visualization
 
 ---
-![My stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![My stats](https://github-readme-stats.vercel.app/api?username=wissemkooli&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/wissem-kooli-b39271380/)
