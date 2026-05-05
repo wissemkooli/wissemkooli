@@ -140,10 +140,6 @@ Full web platform simulating EOQ, safety stock, and reorder-point inventory mode
 **Data**
 - Certified Data Analyst — DataCamp
 
-**Community**
-- Web3 talk at Nerdata (Nov 2025)
-- Chain & Brain · Smart2Gether · BIGTECH Africa
-- Deep Dive into Blockchain 2026 applicant — UZH × Hashgraph Association
 
 </td>
 </tr>
